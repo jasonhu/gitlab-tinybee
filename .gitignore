@@ -165,3 +165,6 @@ project/plugins/project/
 # End of https://www.gitignore.io/api/sbt,java,maven,macos,scala,intellij+all
 
 rebel.xml
+
+config/
+mysql_data/
